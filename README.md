@@ -12,7 +12,7 @@
 
 **Describe your idea → AI generates → You deploy. In seconds.**
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+· [Report Bug](#) · [Request Feature](#)
 
 </div>
 
